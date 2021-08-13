@@ -1,1 +1,1 @@
-This is SHVM001 forst git project
+This is SHVM001 first git project
